@@ -1,9 +1,18 @@
+# ================= #
+# Graphic Resources #
+# ================= #
+Assets/Binaries/
+Library/
+
+=====================
+
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+*.meta
 
 # Visual Studio cache directory
 .vs/
